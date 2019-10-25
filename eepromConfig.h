@@ -7,6 +7,6 @@
 #define  _EEPROM_F1_LOW_DESTINY							(0)
 #define  _EEPROM_F1_MEDIUM_DESTINY						(1)
 #define  _EEPROM_F1_HIGH_DESTINY						(0)
-#define  _EEPROM_USE_FLASH_PAGE							(31)
+#define  _EEPROM_USE_FLASH_PAGE							(63)
 
 #endif
